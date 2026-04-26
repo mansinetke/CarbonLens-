@@ -68,7 +68,7 @@ It integrates **India-specific parameters** such as:
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### 📝 Input Form
 
