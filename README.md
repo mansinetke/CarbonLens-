@@ -68,24 +68,30 @@ It integrates **India-specific parameters** such as:
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### 📝 Input Form
 
-![Input](screenshots/input.png)
+![Input](screenshots/Input_1.png)
+![Input](screenshots/Input_2.png)
+
 
 ### 📊 Result Output
 
-![Result](screenshots/result.png)
+![Result](screenshots/Result_1.png)
+![Result](screenshots/Result_2.png)
 
-### 📜 History Panel
-
-![History](screenshots/history.png)
 
 ### 🗄️ Database Schema
 
-![Database](screenshots/db.png)
+![Database](screenshots/db_tables_overview.png)
+![Database](screenshots/db_buildings_data.png)
+![Database](screenshots/db_buildings_structure.png)
 
+
+### 📜 History Panel
+
+![History](screenshots/db_history_query.png)
 ---
 
 ## ⚙️ Installation & Setup
