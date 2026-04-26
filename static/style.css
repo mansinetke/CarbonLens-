@@ -1,0 +1,6 @@
+/* style.css — retained for Flask static file compatibility */
+/* All styles are now embedded in index.html for single-file deployment.
+   Add custom overrides here if needed. */
+
+/* Example: force a specific font fallback */
+body { font-family: 'DM Sans', Arial, sans-serif; }
