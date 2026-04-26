@@ -4,6 +4,8 @@ import mysql.connector
 from mysql.connector import pooling, Error as MySQLError
 import os
 import logging
+from dotenv import load_dotenv
+load_dotenv() 
 
 # ── Logging ────────────────────────────────────────────────────────────────────
 logging.basicConfig(level=logging.DEBUG)
@@ -15,7 +17,7 @@ CORS(app)
 # ── DB credentials — edit here OR set environment variables ───────────────────
 DB_HOST     = os.getenv("DB_HOST",     "localhost")
 DB_USER     = os.getenv("DB_USER",     "root")
-DB_PASSWORD = os.getenv("DB_PASSWORD", "root123")      # ← change if needed
+DB_PASSWORD = os.getenv("DB_PASSWORD", "")      # ← change if needed
 DB_NAME     = os.getenv("DB_NAME",     "building_carbon_db")
 
 # ── Lazy pool — built on first request, NOT at import time ────────────────────
