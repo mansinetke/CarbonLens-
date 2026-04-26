@@ -170,7 +170,7 @@ http://127.0.0.1:5000
 ## 👩‍💻 Author
 
 **Mansi Netke**
-B.Tech ECE — MIT WPU
+
 
 ---
 
